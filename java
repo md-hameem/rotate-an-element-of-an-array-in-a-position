@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 
-public class Problem7 {
+public class RotateElement {
 
     public static void main(String[] args) {
         int[] originalArray = {2, 3, 5, 7, 11, 13};
